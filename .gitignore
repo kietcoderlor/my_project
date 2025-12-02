@@ -1,0 +1,4 @@
+# day la comment khong co tac dung ignore file hoac folder
+# alo alo/ -> khong theo doi thu muc alo
+alo
+*.log
