@@ -2,3 +2,5 @@
 # alo alo/ -> khong theo doi thu muc alo
 alo
 *.log
+#minh muon bỏ qua abc.xyz nhưng vẫn push my_file.xyz
+/*.xyz
