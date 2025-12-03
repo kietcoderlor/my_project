@@ -4,3 +4,7 @@ alo
 *.log
 #minh muon bỏ qua abc.xyz nhưng vẫn push my_file.xyz
 /*.xyz
+#minh muon bo qua file abc.txt trong folder second folder
+#ubuntu su dung / la path separator
+#window thi su dung // hoac \
+second folder/abc.txt
